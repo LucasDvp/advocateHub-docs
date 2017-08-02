@@ -1,21 +1,21 @@
 # Microsoft Advocate Hub 
 
-Try the demo (*as [end-user](http://advocatehubmobile.westus.cloudapp.azure.com) & [advocator](http://advocatehubmobile.westus.cloudapp.azure.com/admin)*)
+Try the demo (*[end user view](http://advocatehubmobile.westus.cloudapp.azure.com) & [admin dashboard](http://advocatehubmobile.westus.cloudapp.azure.com/admin)*)
 
 ​	![ah](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/ah1.png)	 ![ah](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/ah2.png)
 
-Involved into us, fork the *github repository* in both *[frontend](https://github.com/LucasDvp/advocateHub-mobile) & [backend](https://github.com/LucasDvp/advocateHub-server)*
+To contribute, fork the *github repository* in both *[frontend](https://github.com/LucasDvp/advocateHub-mobile) & [backend](https://github.com/LucasDvp/advocateHub-server)*
 
 ## End-user features
 
 - ##### HomePage
 
-  - **advocators**: users can see all the advocators by *different aspects* and *popularity*
+  - **advocates**: users can see all the advocates grouped by *different tags* and *popularity*
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home1.png" width="375px">
 
 
-  - **meetings**: users can see the *upcoming meetings* and all the *history meetings*
+  - **meetings**: users can see the *upcoming meetings* and the *history meetings*
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2.png" width="375px">
 
@@ -24,14 +24,14 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
 - ##### Meeting detail
 
-  ​	By scanning the **meeting qrcode** which provided by advocators(or just click from homepage),  users can see the detail of the meeting
+  ​	By scanning the **meeting qrcode** which provided by advocates(or just click from homepage),  users can see the detail of the meeting
 
   - **general infos**: users can see the description about this meeting
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail1.png" width="375px">
 
 
-  - **resources**: users can find all the resources which provided by advocator, including video, ppt, document etc.
+  - **resources**: users can find all the resources which provided by advocate, including video, ppt, document etc.
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail2.png" width="375px">
 
@@ -42,18 +42,18 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
 - ##### Advocate detail  
 
-  ​	By clicking *from homepage* or **meeting detail page**, user can see detail information about the advocator
+  ​	By clicking *from homepage* or **meeting detail page**, user can see detail information about the advocate
 
-  - **advocator homepage**: user can see this advocator's own website
+  - **advocate homepage**: user can see this advocate's own website
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail1.png" width="375px">
 
 
-  - **meetings**: users can see all the meetings this advocator own, in both upcoming and history
+  - **meetings**: users can see all the meetings this advocate own, in both upcoming and history
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail2.png" width="375px">
 
-  - **follow**: users can follow this advocator by one-clicking the *follow* button  	
+  - **follow**: users can follow this advocate by one-clicking the *follow* button  	
 
      <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail3.png" width="375px">  	  
 
@@ -62,11 +62,11 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
 - #####  Register by twitter
 
-  - advocators can just **authorize the twitter** to login to advocateHub  
+  - advocates can just **authorize the twitter** to login to advocateHub  
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin2.png" width="375px">
 
-  - advocators need to **initialize their account**, fill the basic information(twitter alias, github alias, facebook publicPage etc.) to let users know more about you
+  - advocates need to **initialize their account**, fill the basic information(twitter alias, github alias, facebook publicPage etc.) to let users know more about you
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin3.png" width="375px">
 
