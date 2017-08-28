@@ -14,13 +14,13 @@ To contribute, fork the *github repository* in both *[frontend](https://github.c
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home1.png" width="375px">
 
-    - **talks**: users can see the *upcoming meetings* and the *history meetings*
+  - **talks**: users can see the *upcoming meetings* and the *history meetings*
 
-      <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2.png" width="375px">
+    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2.png" width="375px">
 
-  - **share**: users can share this site using Facebook,  Twitter and Google plus
+- **share**: users can share this site using Facebook,  Twitter and Google plus
 
-    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home3.png" width="375px">
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home3.png" width="375px">
 
 - ##### Talk‘s detail
 
@@ -30,13 +30,13 @@ To contribute, fork the *github repository* in both *[frontend](https://github.c
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail1.png" width="375px">
 
-    - **resources**: users can find all the resources which provided by advocate, including video, ppt, document etc.
+  - **resources**: users can find all the resources which provided by advocate, including video, ppt, document etc.
 
-      <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail2.png" width="375px">
+    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail2.png" width="375px">
 
-    - **recommend**: our system will automatically do some recommendation based on the meeting tags
+  - **recommend**: our system will automatically do some recommendation based on the meeting tags
 
-      <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail3.png" width="375px">
+    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail3.png" width="375px">
 
 - ##### Advocate Info  
 
@@ -50,14 +50,14 @@ To contribute, fork the *github repository* in both *[frontend](https://github.c
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail2.png" width="375px">
 
-    - **talks**: users can see all the meetings this advocate own, in both upcoming and history
+  - **talks**: users can see all the meetings this advocate own, in both upcoming and history
 
-      <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail3.png" width="375px">    
+    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail3.png" width="375px">    
 
 
 ## Admin dashboard features
 
-- #####  Register by twitter
+- #####  Login by twitter
 
   - advocates can just **authorize the twitter** to login to advocateHub  
 
@@ -71,11 +71,11 @@ To contribute, fork the *github repository* in both *[frontend](https://github.c
 
   - filling the meeting's information, system will **generate a qrcode and auto publish a tweet** for you which can be scanned and comments by users
 
-    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin4.png" width="375px">
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin4.png" width="375px">
 
-    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin5.png" width="375px">
+  ​	<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin5.png" width="375px">
 
-    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6.png" width="375px">
 
-    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin7.png" width="375px">
+​	<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6.png" width="375px">
 
+​		<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin7.png" width="375px">
