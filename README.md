@@ -75,7 +75,6 @@ To contribute, fork the *github repository* in both *[frontend](https://github.c
 
   <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin5.png" width="375px">
 
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6.png" width="375px">
 
-​	<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6.png" width="375px">
-
-​	<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin7.png" width="375px">
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin7.png" width="375px">
